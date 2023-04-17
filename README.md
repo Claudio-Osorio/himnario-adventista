@@ -2,8 +2,7 @@
 *(Adventist Hymnal Lyrics in Spanish Only)*
 
 This Hymnal is property of the Seventh-Day Adventist Church.
-I do NOT claim to have made or own any rights to the lyrics or songs.
-If there is any need for takedown please reach out to me.
+I do NOT claim rights to having made or owning the lyrics or songs.
 The only purpose for this repository is to facilitate the worshipping of God
 with the many songs we know and love. I once myself, found the need to have
 the lyrics ready for display in Propresenter and other presenting software.
@@ -12,6 +11,7 @@ However, I could not find anything. I then took the time to obtain this digital
 version which is easy to download and import. I hope that if you are in need,
 this can be a blessing for you and your church. Please note that the lyrics are
 in Spanish only. God bless you.
+
 
 This Hymnal contains more than 526 hymns and with the following classification:
 
@@ -30,3 +30,6 @@ This Hymnal contains more than 526 hymns and with the following classification:
 13. Resurrection
 14. Second Coming
 15. Farewell
+
+
+If there is a need for takedown please reach out to me.
