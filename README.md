@@ -1,4 +1,4 @@
-# Letra de Himnario Adventista en Español
+# Letra del Himnario Adventista Del Séptimo Día en Español para Propresenter
 *(Adventist Hymnal Lyrics in Spanish Only)*
 
 This Hymnal is property of the Seventh-Day Adventist Church.
